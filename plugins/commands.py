@@ -48,7 +48,7 @@ async def start(client, message):
             InlineKeyboardButton('➕↖️ Add Me To Your Groups ↗️➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://telegram.me/Kcmovie_Request"),
-            InlineKeyboardButton('🔔 BOT Updates 🤖', url='https://t.me/Kc_Cinemagalu'')
+            InlineKeyboardButton('🔔 BOT Updates 🤖', url='https://t.me/Kc_Cinemagalu')
             ],[
              InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ About ♥️', callback_data='about')
